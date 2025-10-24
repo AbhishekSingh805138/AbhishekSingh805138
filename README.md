@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933" />
   <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/AngularJS-000?logo=angularjs&logoColor=E23237" />
+  <img src="https://img.shields.io/badge/Angular-000?logo=angularjs&logoColor=E23237" />
   <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=092E20" />
   <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1" />
