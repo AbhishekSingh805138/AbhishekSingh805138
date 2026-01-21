@@ -17,8 +17,7 @@
 ### 💡 About Me
 - 🔭 I’m currently working as a *Software Developer* at *Cero Smart Mobility*
 - 🌱 Exploring *System Design* & *Cloud-native architectures*
-- ⚡ Passionate about *building scalable backends, **real-time systems, and **AI-driven solutions*
-- 🎯 Goal for 2025: Contribute to *Open Source Projects* & write tech blogs
+- ⚡ Passionate about *building scalable backends, **real-time systems, and **AI-driven solutions
 
 ---
 
