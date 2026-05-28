@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Micronaut-000?logo=micronaut&logoColor=fff" />
   <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/Django-000?logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/Node.js-000?logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/REST_APIs-000?logo=fastapi&logoColor=fff" />
   <img src="https://img.shields.io/badge/Microservices-000?logo=icinga&logoColor=fff" />
 </p>
