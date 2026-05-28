@@ -70,11 +70,11 @@
 
 ## 🚀 Featured Projects
 
-### 🏫 AI-Powered School Management System
-- AI-enabled microservices platform using Node.js + FastAPI
-- Real-time communication with WebSockets
-- RAG-based AI services for intelligent workflows
-- Scalable backend architecture with microservices
+### 🤖 AI-Powered RFP Management System
+- Built an AI-driven procurement automation platform that streamlines the complete RFP lifecycle
+- Users describe procurement requirements in natural language and the system structures the data intelligently
+- Integrated AI-based proposal parsing, scoring, and vendor recommendation engine
+- Users describe procurement requirements in natural language and the system structures the data intelligently
 
 ### ⚡ Charging Management System
 - Developed backend services for enterprise charging infrastructure
