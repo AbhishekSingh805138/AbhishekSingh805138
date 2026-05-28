@@ -101,13 +101,17 @@
 
 ---
 
-## 🌍 Interests
+## 📈 GitHub Analytics
 
-- Distributed Systems
-- Event-Driven Architecture
-- AI Infrastructure
-- Cloud-Native Systems
-- Real-Time Applications
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhishekSingh805138&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhishekSingh805138&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhishekSingh805138&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbhishekSingh805138&theme=github_dark&utcOffset=5.5" />
+</p>
 
 ---
 
