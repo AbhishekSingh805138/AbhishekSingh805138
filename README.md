@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/Express.js-000?logo=express&logoColor=fff" />
   <img src="https://img.shields.io/badge/FastAPI-000?logo=fastapi&logoColor=009688" />
   <img src="https://img.shields.io/badge/Microservices-000?logo=icloud&logoColor=fff" />
-    <img src="https://img.shields.io/badge/Micronaut-000?logo=micronaut&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Micronaut-000?logo=micronaut&logoColor=fff" />
+    
   
 </p>
 
