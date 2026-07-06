@@ -17,9 +17,8 @@
 
 - 🔭 Building scalable backend systems and AI-powered applications
 - ⚡ Experienced in microservices, distributed systems, and real-time communication
-- 🧠 Exploring GenAI, RAG pipelines, and AI system design
+- 🧠 Experienced in Generative AI, Retrieval-Augmented Generation (RAG), Corrective RAG (CRAG), Knowledge Graph RAG (KRAG), AI Agents, Agentic AI, LangChain, LangGraph, multi-agent orchestration, and production-grade LLM application development
 - 🚀 Passionate about production-grade engineering and cloud-native architectures
-
 ---
 
 ## 🛠️ Tech Stack
