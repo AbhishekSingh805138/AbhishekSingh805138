@@ -68,24 +68,23 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered RFP Management System
-- Built an AI-driven procurement automation platform that streamlines the complete RFP lifecycle
-- Users describe procurement requirements in natural language and the system structures the data intelligently
-- Integrated AI-based proposal parsing, scoring, and vendor recommendation engine
-- Users describe procurement requirements in natural language and the system structures the data intelligently
+- Built an AI-driven procurement automation platform that streamlines the complete RFP lifecycle.
+- Users describe procurement requirements in natural language, and the system structures the data intelligently.
+- Integrated AI-based proposal parsing, scoring, and a vendor recommendation engine.
+- Automated procurement workflows to improve efficiency and decision-making.
 
-### ⚡ Charging Management System
-- Developed backend services for enterprise charging infrastructure
-- Worked on Threat Modeling tools and secure APIs
-- Focused on scalable backend architecture and integrations
+**Tech Stack:** Node.js • Express.js • Angular • FastAPI • PostgreSQL • OpenAI • LangChain • Docker
 
-### 🔌 Smart Meter Load Management
-- Dynamic load management system using Node.js + TypeScript
-- DLMS-COSEM based smart meter communication
-- Real-time energy monitoring and optimization
+### 🧠 Enterprise RAG Assistant
+- Built a production-grade Retrieval-Augmented Generation (RAG) platform for enterprise document intelligence.
+- Designed a Corrective RAG (CRAG) pipeline with LangGraph orchestration for reliable, context-aware responses.
+- Implemented **8 advanced retrieval strategies**, multi-agent question decomposition, conversation memory, and knowledge graph integration to improve retrieval accuracy.
+- Developed a secure, production-ready architecture with citation-based responses and enterprise-grade security for document question answering.
+
+**Tech Stack:** LangChain 1.0 • LangGraph 1.0 • ChromaDB • OpenAI • FastAPI • Streamlit
 
 ---
 
